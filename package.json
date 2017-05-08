@@ -1,0 +1,19 @@
+{
+  "name": "gitissuemanagement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suraj094/GitIssueManagement.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suraj094/GitIssueManagement/issues"
+  },
+  "homepage": "https://github.com/suraj094/GitIssueManagement#readme"
+}
